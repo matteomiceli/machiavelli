@@ -1,0 +1,11 @@
+{
+  "name": "machiavelli",
+  "version": "1.0.0",
+  "description": "A game that pits friends against friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
